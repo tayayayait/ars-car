@@ -1,0 +1,5 @@
+{
+  "name": "SafeCall",
+  "description": "A privacy-focused parking safety service connecting callers to vehicle owners without revealing personal phone numbers.",
+  "requestFramePermissions": []
+}
