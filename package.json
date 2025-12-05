@@ -10,6 +10,9 @@
     "dev:server": "ts-node server/src/index.ts",
     "build:server": "tsc -p server/tsconfig.json"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
